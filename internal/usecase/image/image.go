@@ -4,7 +4,6 @@ package image
 
 import (
 	"context"
-	"crypto/sha1"
 	"encoding/base64"
 	"encoding/hex"
 	"errors"
